@@ -25,5 +25,6 @@ end
   
 end
 
+doc.css(".post")
 
 
